@@ -1,0 +1,8 @@
+C:\Users\SBUSISO\OneDrive\Desktop\C# Notes\ArraysTutorial\ArraysTutorial\bin\Debug\ArraysTutorial.exe.config
+C:\Users\SBUSISO\OneDrive\Desktop\C# Notes\ArraysTutorial\ArraysTutorial\bin\Debug\ArraysTutorial.exe
+C:\Users\SBUSISO\OneDrive\Desktop\C# Notes\ArraysTutorial\ArraysTutorial\obj\Debug\ArraysTutorial.csproj.AssemblyReference.cache
+C:\Users\SBUSISO\OneDrive\Desktop\C# Notes\ArraysTutorial\ArraysTutorial\obj\Debug\ArraysTutorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\SBUSISO\OneDrive\Desktop\C# Notes\ArraysTutorial\ArraysTutorial\obj\Debug\ArraysTutorial.csproj.CoreCompileInputs.cache
+C:\Users\SBUSISO\OneDrive\Desktop\C# Notes\ArraysTutorial\ArraysTutorial\obj\Debug\ArraysTutorial.exe
+C:\Users\SBUSISO\OneDrive\Desktop\C# Notes\ArraysTutorial\ArraysTutorial\obj\Debug\ArraysTutorial.pdb
+C:\Users\SBUSISO\OneDrive\Desktop\C# Notes\ArraysTutorial\ArraysTutorial\bin\Debug\ArraysTutorial.pdb
