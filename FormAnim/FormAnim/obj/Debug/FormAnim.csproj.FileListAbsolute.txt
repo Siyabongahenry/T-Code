@@ -1,0 +1,11 @@
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\FormAnim\FormAnim\bin\Debug\FormAnim.exe.config
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\FormAnim\FormAnim\bin\Debug\FormAnim.exe
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\FormAnim\FormAnim\bin\Debug\FormAnim.pdb
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\FormAnim\FormAnim\obj\Debug\FormAnim.csproj.AssemblyReference.cache
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\FormAnim\FormAnim\obj\Debug\FormAnim.csproj.SuggestedBindingRedirects.cache
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\FormAnim\FormAnim\obj\Debug\FormAnim.CfrmDrawAnim.resources
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\FormAnim\FormAnim\obj\Debug\FormAnim.Properties.Resources.resources
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\FormAnim\FormAnim\obj\Debug\FormAnim.csproj.GenerateResource.cache
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\FormAnim\FormAnim\obj\Debug\FormAnim.csproj.CoreCompileInputs.cache
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\FormAnim\FormAnim\obj\Debug\FormAnim.exe
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\FormAnim\FormAnim\obj\Debug\FormAnim.pdb

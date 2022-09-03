@@ -1,0 +1,8 @@
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\JaggedArrays\JaggedArrays\bin\Debug\JaggedArrays.exe.config
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\JaggedArrays\JaggedArrays\bin\Debug\JaggedArrays.exe
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\JaggedArrays\JaggedArrays\bin\Debug\JaggedArrays.pdb
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\JaggedArrays\JaggedArrays\obj\Debug\JaggedArrays.csproj.AssemblyReference.cache
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\JaggedArrays\JaggedArrays\obj\Debug\JaggedArrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\JaggedArrays\JaggedArrays\obj\Debug\JaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\JaggedArrays\JaggedArrays\obj\Debug\JaggedArrays.exe
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\JaggedArrays\JaggedArrays\obj\Debug\JaggedArrays.pdb

@@ -1,0 +1,11 @@
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\Drawing\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\Drawing\Drawing\bin\Debug\Drawing.exe
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\Drawing\Drawing\bin\Debug\Drawing.pdb
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\Drawing\Drawing\obj\Debug\Drawing.csproj.AssemblyReference.cache
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\Drawing\Drawing\obj\Debug\Drawing.csproj.SuggestedBindingRedirects.cache
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\Drawing\Drawing\obj\Debug\Drawing.CfrmDrawings.resources
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\Drawing\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\Drawing\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\Drawing\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\Drawing\Drawing\obj\Debug\Drawing.exe
+C:\Users\SBUSISO\OneDrive\Desktop\T-Code\Drawing\Drawing\obj\Debug\Drawing.pdb
